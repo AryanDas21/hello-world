@@ -10,7 +10,7 @@ Welcome to my GitHub profile. This is where I'll be hosting my personal projects
 - Exploring different domains like Web Development and Data Structures.
 
 ### 🛠️ Technologies & Tools:
-- **Languages:** C
+- **Languages:** C (Learning phase)
 - **Tools:** Git, GitHub, VS Code
 
 ### 🌐 Connect with me:
